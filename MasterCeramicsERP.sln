@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterCeramicsERP", "MasterCeramicsERP\MasterCeramicsERP.csproj", "{CF31525A-6C31-45A3-B3F6-21912AEFEB43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCERP.DAL", "MCERP.DAL\MCERP.DAL.csproj", "{0F7BDB59-BA09-4035-8E51-B7B75054F557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCERP.Entities", "MCERP.Entities\MCERP.Entities.csproj", "{A4AAF67F-4AE0-4668-BCCE-A417F959ECB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF31525A-6C31-45A3-B3F6-21912AEFEB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF31525A-6C31-45A3-B3F6-21912AEFEB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF31525A-6C31-45A3-B3F6-21912AEFEB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF31525A-6C31-45A3-B3F6-21912AEFEB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7BDB59-BA09-4035-8E51-B7B75054F557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7BDB59-BA09-4035-8E51-B7B75054F557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7BDB59-BA09-4035-8E51-B7B75054F557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7BDB59-BA09-4035-8E51-B7B75054F557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4AAF67F-4AE0-4668-BCCE-A417F959ECB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AAF67F-4AE0-4668-BCCE-A417F959ECB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AAF67F-4AE0-4668-BCCE-A417F959ECB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AAF67F-4AE0-4668-BCCE-A417F959ECB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

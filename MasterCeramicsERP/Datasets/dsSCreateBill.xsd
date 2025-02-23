@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSCreateBill" targetNamespace="http://tempuri.org/dsSCreateBill.xsd" xmlns:mstns="http://tempuri.org/dsSCreateBill.xsd" xmlns="http://tempuri.org/dsSCreateBill.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="MCERPdatabaseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="MCERPdatabaseConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.MasterCeramicsERP.Properties.Settings.GlobalReference.Default.MCERPdatabaseConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSCreateBill" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsSCreateBill" msprop:Generator_DataSetName="dsSCreateBill" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="SaleCreateBill" msprop:Generator_UserTableName="SaleCreateBill" msprop:Generator_RowDeletedName="SaleCreateBillRowDeleted" msprop:Generator_RowChangedName="SaleCreateBillRowChanged" msprop:Generator_RowClassName="SaleCreateBillRow" msprop:Generator_RowChangingName="SaleCreateBillRowChanging" msprop:Generator_RowEvArgName="SaleCreateBillRowChangeEvent" msprop:Generator_RowEvHandlerName="SaleCreateBillRowChangeEventHandler" msprop:Generator_TableClassName="SaleCreateBillDataTable" msprop:Generator_TableVarName="tableSaleCreateBill" msprop:Generator_RowDeletingName="SaleCreateBillRowDeleting" msprop:Generator_TablePropName="SaleCreateBill">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Buyer" msprop:Generator_UserColumnName="Buyer" msprop:Generator_ColumnVarNameInTable="columnBuyer" msprop:Generator_ColumnPropNameInRow="Buyer" msprop:Generator_ColumnPropNameInTable="BuyerColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Item" msprop:Generator_UserColumnName="Item" msprop:Generator_ColumnVarNameInTable="columnItem" msprop:Generator_ColumnPropNameInRow="Item" msprop:Generator_ColumnPropNameInTable="ItemColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Style" msprop:Generator_UserColumnName="Style" msprop:Generator_ColumnVarNameInTable="columnStyle" msprop:Generator_ColumnPropNameInRow="Style" msprop:Generator_ColumnPropNameInTable="StyleColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Size" msprop:Generator_UserColumnName="Size" msprop:Generator_ColumnVarNameInTable="columnSize" msprop:Generator_ColumnPropNameInRow="Size" msprop:Generator_ColumnPropNameInTable="SizeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Color" msprop:Generator_UserColumnName="Color" msprop:Generator_ColumnVarNameInTable="columnColor" msprop:Generator_ColumnPropNameInRow="Color" msprop:Generator_ColumnPropNameInTable="ColorColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantity" msprop:Generator_UserColumnName="Quantity" msprop:Generator_ColumnVarNameInTable="columnQuantity" msprop:Generator_ColumnPropNameInRow="Quantity" msprop:Generator_ColumnPropNameInTable="QuantityColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_UserColumnName="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Total_x0020_Amount" msprop:Generator_UserColumnName="Total Amount" msprop:Generator_ColumnVarNameInTable="columnTotal_Amount" msprop:Generator_ColumnPropNameInRow="Total_Amount" msprop:Generator_ColumnPropNameInTable="Total_AmountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Discount_x0020_Amount" msprop:Generator_UserColumnName="Discount Amount" msprop:Generator_ColumnVarNameInTable="columnDiscount_Amount" msprop:Generator_ColumnPropNameInRow="Discount_Amount" msprop:Generator_ColumnPropNameInTable="Discount_AmountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Discount_x0020_Rate" msprop:Generator_UserColumnName="Discount Rate" msprop:Generator_ColumnVarNameInTable="columnDiscount_Rate" msprop:Generator_ColumnPropNameInRow="Discount_Rate" msprop:Generator_ColumnPropNameInTable="Discount_RateColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Total_x0020_Price" msprop:Generator_UserColumnName="Total Price" msprop:Generator_ColumnPropNameInRow="Total_Price" msprop:Generator_ColumnVarNameInTable="columnTotal_Price" msprop:Generator_ColumnPropNameInTable="Total_PriceColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

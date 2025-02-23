@@ -1,0 +1,537 @@
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.pdb
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.exe
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.exe
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.pdb
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.pdb
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\ResolveAssemblyReference.cache
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.pdb
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmBarmilLoadInfo.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMain.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMaster.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialVendors.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERPdatabase.mdf
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERPdatabase_log.ldf
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.config
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemStockReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmReadyItemStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewUser.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.config
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.pdb
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERPdatabase.mdf
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERPdatabase_log.ldf
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.pdb
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.exe
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.exe
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.pdb
+E:\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.pdb
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\ResolveAssemblyReference.cache
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddAddress.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddBarmil.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCity.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddContact.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCountry.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItem.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItemWeight.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddJobs.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddKillen.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewPerson.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewUser.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddProvince.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddStyle.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmBarmilLoadInfo.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmLogin.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemStockReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeed.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMain.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMaster.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakage.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspection.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialVendors.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSearchPerson.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdatePersonInfo.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.Properties.Resources.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmReadyItemStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.application
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.application
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.config
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.pdb
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERPdatabase.mdf
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERPdatabase_log.ldf
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.application
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.pdb
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.pdb
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.pdb
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\ResolveAssemblyReference.cache
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewUser.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemStockReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMain.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMaster.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmReadyItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.application
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyWages.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCasterPayment.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMainPayroll.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesAddOrder.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesPostOrder.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesGenerateOrderBill.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmPersonJobs.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.config
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.pdb
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\ResolveAssemblyReference.cache
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewUser.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCasterPayment.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyWages.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMainPayroll.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmPersonJobs.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemStockReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMain.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMaster.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmReadyItemStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesAddOrder.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesGenerateOrderBill.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesPostOrder.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERPdatabase.mdf
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERPdatabase_log.ldf
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.application
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.pdb
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.exe
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.exe
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.pdb
+E:\Activities\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.pdb
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.application
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Activities\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.config
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\ResolveAssemblyReference.cache
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddNewUser.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCasterPayment.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmDailyWages.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMainPayroll.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmPersonJobs.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMain.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMaster.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesAddOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesPostOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERPdatabase.mdf
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERPdatabase_log.ldf
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.application
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.Entities.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Debug\MCERP.DAL.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe.manifest
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.application
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesCreateBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmMainSales.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmLoadingSales.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.frmAdmin.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.Administrator.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Debug\MasterCeramicsERP.exe.config
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Debug\Interop.WIA.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.exe
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Debug\MasterCeramicsERP.pdb

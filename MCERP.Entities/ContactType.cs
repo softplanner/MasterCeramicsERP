@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace MCERP.Entities
+{
+    public enum ContactType:byte
+    {
+        Home,
+        Work,
+        Cell,
+        WLL,
+        Fax,
+        Other
+    }
+}

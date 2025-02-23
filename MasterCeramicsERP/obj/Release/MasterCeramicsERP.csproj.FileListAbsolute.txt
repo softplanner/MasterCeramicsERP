@@ -1,0 +1,1251 @@
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MCERPdatabase.mdf
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MCERPdatabase_log.ldf
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MCERP.DAL.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MCERP.Entities.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemStockReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmReadyItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesGenerateOrderBill.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Activities\PayRoll\MasterCeramicsERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.exe
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+E:\Activities\Sales ERp\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOilInspection.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.dll
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.dll
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAlarmAboutRawStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemSize.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonProfile.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPersonProfile.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterUnglazeItemStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterItemStock.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\bin\Release\Interop.WIA.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\Interop.WIA.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Biometric.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmColorManager.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.BackupDatabase.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDelChalGP.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRemarks.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSalesViewBill.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Main.resources
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rfBillByDeliveryChallan.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\Interop.WIA.dll
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.BackupDatabase.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Biometric.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemSize.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAlarmAboutRawStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterUnglazeItemStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmColorManager.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonProfile.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRemarks.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSalesViewBill.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Main.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rfBillByDeliveryChallan.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterItemStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPersonProfile.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDelChalGP.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.dll
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.dll
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\Interop.WIA.dll
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Activities\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\Interop.WIA.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\Interop.WIA.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.BackupDatabase.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Biometric.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemSize.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAlarmAboutRawStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterUnglazeItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmColorManager.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonProfile.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRemarks.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSalesViewBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Main.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rfBillByDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPersonProfile.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDelChalGP.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\Interop.WIA.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\Interop.WIA.dll
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.BackupDatabase.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Biometric.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemSize.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAlarmAboutRawStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterUnglazeItemStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmColorManager.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonProfile.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRemarks.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSalesViewBill.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Main.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rfBillByDeliveryChallan.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterItemStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOilInspection.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPersonProfile.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDelChalGP.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.dll
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.dll
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\bin\Release\Interop.WIA.dll
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Recover Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemCastingRate.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmItemCastingRate.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemRate.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOutwardGatePass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewOutwardgatepass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOutwardGatePass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\Interop.WIA.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.BackupDatabase.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Biometric.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemRate.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemSize.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAlarmAboutRawStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterUnglazeItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmColorManager.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemCastingRate.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOutwardGatePass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonProfile.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRemarks.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSalesViewBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewOutwardgatepass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Main.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rfBillByDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmItemCastingRate.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOutwardGatePass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPersonProfile.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDelChalGP.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\Interop.WIA.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\ResolveAssemblyReference.cache
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.config
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe.manifest
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.application
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.exe
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MasterCeramicsERP.pdb
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.dll
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.dll
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.DAL.pdb
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\MCERP.Entities.pdb
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\bin\Release\Interop.WIA.dll
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\Interop.WIA.dll
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.ResolveComReference.cache
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Administrator.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.BackupDatabase.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Biometric.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddAddress.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddBarmil.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCity.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddContact.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddCountry.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddGlazeHouse.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItem.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemRate.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemSize.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddItemWeight.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddJobs.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddKillen.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewPerson.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddNewUser.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddProvince.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddRawMaterial.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAddStyle.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAdmin.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmAlarmAboutRawStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmbarmilLoadInfo.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipFromItems.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCalculateSlipPecentege.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterPayment.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCasterUnglazeItemStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmChangeWorkerLoanAmount.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmColorManager.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyItemStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmCompanyMoldStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyGlazingReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyKillenReportShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmDailyWages.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakage.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGlazedItemBreakageShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemCastingRate.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmLoadingSales.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainPayroll.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMainSales.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmManageItemStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMarkAttendence.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMonthlySalary.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOutwardGatePass.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonJobs.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmPersonProfile.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRemarks.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSalesViewBill.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipMaterial.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateCasterReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateDailyWages.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateLoanReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateMonthlySalary.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewAttendenceRecord.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmViewOutwardgatepass.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmWorkerLoan.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Main.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rfBillByDeliveryChallan.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterItemStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmCasterMoldStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyGlazingReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmDailyKillenReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGlazedItemBreakage.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemChecking.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareItemCheckingShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCasting.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareMoldCastingShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmGreenWareWorkerStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmItemEstimationFromSlip.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeed.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmKillenFeedShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMain.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMaster.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakage.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldBreakageShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecord.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldIssueRecordShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecord.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmMoldReceiveRecordShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspection.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmOilInspectionShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialReportShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmRawMaterialStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSearchPerson.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmShowDailyGlazingReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmSlipPercentageInfo.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnGlazeItemBreakage.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUnglazeItemBreakageShow.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateItemStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.frmUpdateSlipPercentage.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.Properties.Resources.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmGreenwareItemChecking.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmItemCastingRate.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmKillenFeed.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmLetterHead.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldBreakage.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldCastingReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldIssue.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldReceive.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmMoldStockCompany.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmOutwardGatePass.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPCasterPay.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPDailyWages.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPersonProfile.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPLoan.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPMonSal.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPostOrderView.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmPrediction.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmRawMaterialReport.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSaleCreateBill.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSalesGatePassBill.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmSDeliveryChallan.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemBreakage.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmViewAttendence.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.rptFrmUnglazeItemStock.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddOrder.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesAddSubDealer.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBill.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesCreateBillByGatePass.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesDeliveryChallan.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesFrmEmptyBill.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.SalesGoodsTransportCompany.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostedOrderBill.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesPostOrder.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDelChalGP.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewDeliveryChallan.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewPostedOrder.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnPostedOrder.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.salesViewUnpostedOrderByDealer.resources
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.csproj.GenerateResource.Cache
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe.manifest
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.application
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.exe
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MasterCeramicsERP\obj\Release\MasterCeramicsERP.pdb

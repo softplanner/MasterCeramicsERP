@@ -1,0 +1,35 @@
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MCERP.DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.dll
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.pdb
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.dll
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.pdb
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.dll
+C:\Users\softplanner\Desktop\Final Project using Class Library\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.pdb
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.pdb
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.pdb
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MCERP.DAL\obj\Release\ResolveAssemblyReference.cache
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.dll
+E:\Activities\Sales ERp\Final Project using Class Library\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.pdb
+E:\Activities\Master Sanitary Ware\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.dll
+E:\Activities\Master Sanitary Ware\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.pdb
+E:\Activities\Master Sanitary Ware\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.dll
+E:\Activities\Master Sanitary Ware\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.pdb
+E:\Activities\Master Sanitary Ware\SMS-ERP\MCERP.DAL\obj\Release\ResolveAssemblyReference.cache
+E:\Activities\Master Sanitary Ware\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.dll
+E:\Activities\Master Sanitary Ware\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.pdb
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MCERP.DAL\obj\Release\ResolveAssemblyReference.cache
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.dll
+E:\Master Ceramics Project\Master Sanitary Ware\SMS-ERP\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.pdb
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.dll
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.DAL.pdb
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.dll
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MCERP.DAL\bin\Release\MCERP.Entities.pdb
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MCERP.DAL\obj\Release\ResolveAssemblyReference.cache
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.dll
+E:\Master Ceramics\Master Ceramics Project\Master Sanitary Ware\SMS-ERPP\SMS-ERP\MCERP.DAL\obj\Release\MCERP.DAL.pdb

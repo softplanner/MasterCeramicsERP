@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A4AAF67F-4AE0-4668-BCCE-A417F959ECB5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCERP.Entities</RootNamespace>
+    <AssemblyName>MCERP.Entities</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Address.cs" />
+    <Compile Include="AddressOfPerson.cs" />
+    <Compile Include="AddressType.cs" />
+    <Compile Include="AmountSubmitTo.cs" />
+    <Compile Include="AmountType.cs" />
+    <Compile Include="AttandanceWorkerNew.cs" />
+    <Compile Include="AttendenceAccount.cs" />
+    <Compile Include="AttendenceDetail.cs" />
+    <Compile Include="AttendenceWorker.cs" />
+    <Compile Include="Bank.cs" />
+    <Compile Include="Barmil.cs" />
+    <Compile Include="BarmilLoadInfo.cs" />
+    <Compile Include="BillDetail.cs" />
+    <Compile Include="CasterPayment.cs" />
+    <Compile Include="CasterPaymentNew.cs" />
+    <Compile Include="CastingRate.cs" />
+    <Compile Include="CheckedUnGlazeItems.cs" />
+    <Compile Include="City.cs" />
+    <Compile Include="Colors.cs" />
+    <Compile Include="ColorType.cs" />
+    <Compile Include="Contact.cs" />
+    <Compile Include="ContactType.cs" />
+    <Compile Include="Country.cs" />
+    <Compile Include="Currency.cs" />
+    <Compile Include="DailyBasedWorker.cs" />
+    <Compile Include="DailyGlazingReport.cs" />
+    <Compile Include="DailyGlazingReportN.cs" />
+    <Compile Include="DailyKillenReport.cs" />
+    <Compile Include="DailyReportGreenware.cs" />
+    <Compile Include="DailyWagesReport.cs" />
+    <Compile Include="DealerAccount.cs" />
+    <Compile Include="DealerCustomer.cs" />
+    <Compile Include="DealerInstallment.cs" />
+    <Compile Include="deliveryChallan.cs" />
+    <Compile Include="GatePass.cs" />
+    <Compile Include="GlazeHouse.cs" />
+    <Compile Include="GlazeHouseBreakage.cs" />
+    <Compile Include="GlazeHouseGlazedStock.cs" />
+    <Compile Include="GlazeHouseUnGlazeStock.cs" />
+    <Compile Include="GlazeStockCompany.cs" />
+    <Compile Include="GoodsCompany.cs" />
+    <Compile Include="GreenWareHouseBreakage.cs" />
+    <Compile Include="GreenWareHouseItemCheckReport.cs" />
+    <Compile Include="GreenWareHouseWorkerStock.cs" />
+    <Compile Include="HourlyBasedWorker.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="ItemCategory.cs" />
+    <Compile Include="ItemColor.cs" />
+    <Compile Include="ItemPrice.cs" />
+    <Compile Include="ItemRate.cs" />
+    <Compile Include="ItemSize.cs" />
+    <Compile Include="ItemStyle.cs" />
+    <Compile Include="ItemUnGlazeBreakType.cs" />
+    <Compile Include="ItemWeight.cs" />
+    <Compile Include="Jobs.cs" />
+    <Compile Include="Killen.cs" />
+    <Compile Include="KillenBreakage.cs" />
+    <Compile Include="KillenFeed.cs" />
+    <Compile Include="killenFeedReport.cs" />
+    <Compile Include="KillenFeedStock.cs" />
+    <Compile Include="KillenItemCategory.cs" />
+    <Compile Include="MoldBreakage.cs" />
+    <Compile Include="MoldCastingReport.cs" />
+    <Compile Include="MoldIssueRecord.cs" />
+    <Compile Include="MoldReceiveRecord.cs" />
+    <Compile Include="MoldRegisterRecord.cs" />
+    <Compile Include="MoldStockCompany.cs" />
+    <Compile Include="MoldStockWorker.cs" />
+    <Compile Include="MonthlyBasedWorker.cs" />
+    <Compile Include="MonthOffSalory.cs" />
+    <Compile Include="OilInspectionReport.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="OrderPostInfo.cs" />
+    <Compile Include="OrderPreInfo.cs" />
+    <Compile Include="OrderToGoodsCompany.cs" />
+    <Compile Include="PerDayWage.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="PersonExtraInfo.cs" />
+    <Compile Include="PersonJobs.cs" />
+    <Compile Include="personShortInfo.cs" />
+    <Compile Include="PersonType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Province.cs" />
+    <Compile Include="RawMaterial.cs" />
+    <Compile Include="RawMaterialReport.cs" />
+    <Compile Include="RawMaterialStock.cs" />
+    <Compile Include="RawMaterialSupplier.cs" />
+    <Compile Include="ReadyItemStock.cs" />
+    <Compile Include="Remarks.cs" />
+    <Compile Include="SaleItem.cs" />
+    <Compile Include="SaleItemCategory.cs" />
+    <Compile Include="SaloryForTheMonthOFF.cs" />
+    <Compile Include="Security.cs" />
+    <Compile Include="SlipPercentage.cs" />
+    <Compile Include="SlipStock.cs" />
+    <Compile Include="SupplierAccount.cs" />
+    <Compile Include="UnGlazeStockCompany.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="WorkerAccount.cs" />
+    <Compile Include="WorkerLoanInfo.cs" />
+    <Compile Include="WorkerLoanReport.cs" />
+    <Compile Include="WorkerType.cs" />
+    <Compile Include="WorkerTypeInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

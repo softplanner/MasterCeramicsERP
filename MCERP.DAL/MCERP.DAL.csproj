@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0F7BDB59-BA09-4035-8E51-B7B75054F557}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MCERP.DAL</RootNamespace>
+    <AssemblyName>MCERP.DAL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddressDAL.cs" />
+    <Compile Include="AttendenceAccountDAL.cs" />
+    <Compile Include="AttendenceDetailDAL.cs" />
+    <Compile Include="BarmilDAL.cs" />
+    <Compile Include="BarmilLoadInfoDAL.cs" />
+    <Compile Include="CasterPaymentReportDAL.cs" />
+    <Compile Include="CheckedUnGlazeItemsDAL.cs" />
+    <Compile Include="CityDAL.cs" />
+    <Compile Include="ColorDAL.cs" />
+    <Compile Include="ConnectionDB.cs" />
+    <Compile Include="ContactDAL.cs" />
+    <Compile Include="CountryDAL.cs" />
+    <Compile Include="CurrencyDAL.cs" />
+    <Compile Include="DailyGlazingReportDAL.cs" />
+    <Compile Include="DailyKillenReportDAL.cs" />
+    <Compile Include="DailyReportGreenwareDAL.cs" />
+    <Compile Include="DailyWagesReportDAL.cs" />
+    <Compile Include="DealerAccountDAL.cs" />
+    <Compile Include="DealerCustomerDAL.cs" />
+    <Compile Include="DealerInstallmentsDAL.cs" />
+    <Compile Include="deliveryChallanDAL.cs" />
+    <Compile Include="GatePassCounter.cs" />
+    <Compile Include="GatePassDAL.cs" />
+    <Compile Include="GlazedStockCompanyDAL.cs" />
+    <Compile Include="GlazeHouseBreakageDAL.cs" />
+    <Compile Include="GlazeHouseDAL.cs" />
+    <Compile Include="GlazeHouseGlazedStockDAL.cs" />
+    <Compile Include="GlazeHouseUnGlazeStockDAL.cs" />
+    <Compile Include="GoodsCompanyDAL.cs" />
+    <Compile Include="GreenWareHouseBreakageDAL.cs" />
+    <Compile Include="GreenWareHouseItemCheckReportDAL.cs" />
+    <Compile Include="GreenWareHouseWorkerStockDAL.cs" />
+    <Compile Include="ItemCategoryDAL.cs" />
+    <Compile Include="ItemDAL.cs" />
+    <Compile Include="ItemPriceDAL.cs" />
+    <Compile Include="ItemSizeDAL.cs" />
+    <Compile Include="ItemStyleDAL.cs" />
+    <Compile Include="ItemWeightDAL.cs" />
+    <Compile Include="JobsDAL.cs" />
+    <Compile Include="KillenBreakageDAL.cs" />
+    <Compile Include="KillenDAL.cs" />
+    <Compile Include="KillenFeedDAL.cs" />
+    <Compile Include="KillenItemCategoryDAL.cs" />
+    <Compile Include="MoldBreakageDAL.cs" />
+    <Compile Include="MoldCastingRepertDAL.cs" />
+    <Compile Include="MoldIssueRecordDAL.cs" />
+    <Compile Include="MoldReceiveRecordDAL.cs" />
+    <Compile Include="MoldStockCompanyDAL.cs" />
+    <Compile Include="MoldStockWorkerDAL.cs" />
+    <Compile Include="OilInspectionReportDAL.cs" />
+    <Compile Include="OrderDAL.cs" />
+    <Compile Include="OrderPostInfocs.cs" />
+    <Compile Include="OrderPreInfoDAL.cs" />
+    <Compile Include="OrderToGoodsCompanyDAL.cs" />
+    <Compile Include="PerDayWageDAL.cs.cs" />
+    <Compile Include="PersonDAL.cs" />
+    <Compile Include="PersonExtraInfoDAL.cs" />
+    <Compile Include="PersonJobsDAL.cs" />
+    <Compile Include="PersonTypeDAL.cs" />
+    <Compile Include="PersonTypes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProvinceDAL.cs" />
+    <Compile Include="RawMaterialDAL.cs" />
+    <Compile Include="RawMaterialReportDAL.cs" />
+    <Compile Include="RawMaterialStockDAL.cs" />
+    <Compile Include="RawMaterialSupplierDAL.cs" />
+    <Compile Include="ReadyItemStockDAL.cs" />
+    <Compile Include="RemarksDAL.cs" />
+    <Compile Include="SaleItemDAL.cs" />
+    <Compile Include="SaloryMonthOffDAL.cs" />
+    <Compile Include="SlipPercentageDAL.cs" />
+    <Compile Include="SlipStockDAL.cs" />
+    <Compile Include="SupplierAccountDAL.cs" />
+    <Compile Include="UnGlazeStockCompanyDAL.cs" />
+    <Compile Include="UserDAL.cs" />
+    <Compile Include="WorkerAccountDAL.cs" />
+    <Compile Include="WorkerLoanInfoDAL.cs" />
+    <Compile Include="WorkerLoanReportDAL.cs" />
+    <Compile Include="WorkerTypeInfoDAL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MCERP.Entities\MCERP.Entities.csproj">
+      <Project>{A4AAF67F-4AE0-4668-BCCE-A417F959ECB5}</Project>
+      <Name>MCERP.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
